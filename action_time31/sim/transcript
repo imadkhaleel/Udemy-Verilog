@@ -1,0 +1,82 @@
+# Compile of adders_tree.v was successful.
+# Compile of tb_adders_tree.v failed with 4 errors.
+# 2 compiles, 1 failed with 4 errors.
+# Compile of adders_tree.v was successful.
+# Compile of tb_adders_tree.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_adders_tree
+# vsim -gui work.tb_adders_tree 
+# Start time: 16:36:25 on Sep 05,2023
+# Loading work.tb_adders_tree
+# Loading work.adders_tree
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (8) for port 'c'. The port definition is at: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time33/adders_tree.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_adders_tree/ADD File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time33/tb_adders_tree.v Line: 10
+# ** Warning: (vsim-3015) [PCDPC] - Port size (4) does not match connection size (8) for port 'd'. The port definition is at: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time33/adders_tree.v(5).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_adders_tree/ADD File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time33/tb_adders_tree.v Line: 10
+add wave -position end  sim:/tb_adders_tree/a
+add wave -position end  sim:/tb_adders_tree/b
+add wave -position end  sim:/tb_adders_tree/c
+add wave -position end  sim:/tb_adders_tree/d
+add wave -position end  sim:/tb_adders_tree/sum1
+add wave -position end  sim:/tb_adders_tree/sum2
+add wave -position end  sim:/tb_adders_tree/sum3
+run -all
+# a =  x, b =  x, c =   x, d=   x, sum1 =  x, sum2 =   x, sum3 =    x
+# a =  0, b =  3, c =   1, d= 255, sum1 =  3, sum2 =  16, sum3 =   19
+# a = 10, b = 13, c =   9, d=  10, sum1 = 23, sum2 =  19, sum3 =   42
+# a = 15, b = 15, c = 109, d=  37, sum1 = 30, sum2 =  18, sum3 =   48
+# a =  0, b =  9, c =  45, d=  45, sum1 =  9, sum2 =  26, sum3 =   35
+quit -sim
+# End time: 21:54:59 on Sep 05,2023, Elapsed time: 5:18:34
+# Errors: 0, Warnings: 10
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of tb_tree_adder_proc.v was successful.
+# Compile of tree_adder_procedural.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of tb_tree_adder_proc.v was successful.
+# Compile of tree_adder_procedural.v failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of tb_tree_adder_proc.v was successful.
+# Compile of tree_adder_procedural.v failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of tb_tree_adder_proc.v was successful.
+# Compile of tree_adder_procedural.v failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of tb_tree_adder_proc.v was successful.
+# Compile of tree_adder_procedural.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_adders_tree_proc
+# vsim -gui work.tb_adders_tree_proc 
+# Start time: 21:59:33 on Sep 05,2023
+# Loading work.tb_adders_tree_proc
+# ** Error: (vsim-3033) Instantiation of 'tree_adders_procedural' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_adders_tree_proc File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time34/tb_tree_adder_proc.v Line: 10
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time34/sim/work
+# Error loading design
+# End time: 21:59:33 on Sep 05,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 9
+# Compile of tb_tree_adder_proc.v was successful.
+# Compile of tree_adder_procedural.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_adders_tree_proc
+# vsim -gui work.tb_adders_tree_proc 
+# Start time: 22:00:12 on Sep 05,2023
+# Loading work.tb_adders_tree_proc
+# Loading work.tree_adder_procedural
+add wave -position end  sim:/tb_adders_tree_proc/a
+add wave -position end  sim:/tb_adders_tree_proc/b
+add wave -position end  sim:/tb_adders_tree_proc/c
+add wave -position end  sim:/tb_adders_tree_proc/d
+add wave -position end  sim:/tb_adders_tree_proc/sum1
+add wave -position end  sim:/tb_adders_tree_proc/sum2
+add wave -position end  sim:/tb_adders_tree_proc/sum3
+run -all
+# a =  x, b =  x, c =   x, d=   x, sum1 =  x, sum2 =   x, sum3 =    x
+# a =  0, b =  3, c =   1, d= 255, sum1 =  3, sum2 = 256, sum3 =  259
+# a = 10, b = 13, c =   9, d=  10, sum1 = 23, sum2 =  19, sum3 =   42
+# a = 15, b = 15, c = 109, d=  37, sum1 = 30, sum2 = 146, sum3 =  176
+# a =  0, b =  9, c =  45, d=  45, sum1 =  9, sum2 =  90, sum3 =   99
+# End time: 22:19:05 on Sep 05,2023, Elapsed time: 0:18:53
+# Errors: 0, Warnings: 2

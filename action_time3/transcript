@@ -1,0 +1,61 @@
+# Compile of literal_values.v failed with 3 errors.
+# Compile of literal_values.v failed with 3 errors.
+# Compile of literal_values.v failed with 1 errors.
+# Compile of literal_values.v was successful.
+vsim -gui work.literal_values
+# vsim -gui work.literal_values 
+# Start time: 16:48:52 on Aug 23,2023
+# Loading work.literal_values
+# ** Warning: (vsim-PLI-3003) [TOFD] - System task or function '$displayq' is not defined.
+#    Time: 0 ps  Iteration: 0  Instance: /literal_values File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time4/literal_values.v Line: 25
+run -all
+# my_var = 137
+# my_var = 89
+# my_var = 10000001
+# my_var = 211
+# my_var = z1
+# my_var = 00000001
+# ** Error (suppressible): (vsim-12023) Cannot execute undefined system task/function '$displayq'
+#    Time: 0 ps  Iteration: 0  Process: /literal_values/#INITIAL#5 File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time4/literal_values.v Line: 25
+quit -sim
+# End time: 16:49:57 on Aug 23,2023, Elapsed time: 0:01:05
+# Errors: 1, Warnings: 9
+# Compile of literal_values.v was successful.
+vsim -gui work.literal_values
+# vsim -gui work.literal_values 
+# Start time: 16:50:08 on Aug 23,2023
+# Loading work.literal_values
+run -all
+# my_var = 137
+# my_var = 89
+# my_var = 10000001
+# my_var = 211
+# my_var = z1
+# my_var = 00000001
+# my_var = #b240
+# Compile of easy_vectors_example.v failed with 2 errors.
+# Compile of easy_vectors_example.v was successful.
+vsim -gui work.easy_vectors_example
+# End time: 17:46:28 on Aug 23,2023, Elapsed time: 0:56:20
+# Errors: 0, Warnings: 10
+# vsim -gui work.easy_vectors_example 
+# Start time: 17:46:28 on Aug 23,2023
+# Loading work.easy_vectors_example
+add wave -position end  sim:/easy_vectors_example/a
+add wave -position end  sim:/easy_vectors_example/b
+add wave -position end  sim:/easy_vectors_example/d
+add wave -position end  sim:/easy_vectors_example/c
+run -all
+# PROC2 a = 00000000, b = 0000000, c = 00, d = 00000000
+# PROC2 a = 00000001, b = 0000000, c = 00, d = 00000000
+# PROC2 a = 11110101, b = 0000000, c = 01, d = 00000000
+# PROC2 a = 11111000, b = 0000000, c = 10, d = 00000000
+# PROC2 a = 00001000, b = 0000000, c = 10, d = 00000000
+# PROC2 a = 00000000, b = 0000000, c = 00, d = 00000000
+# PROC2 a = 00000000, b = 1111111, c = 00, d = 00000000
+# PROC2 a = 00000000, b = 1111111, c = 00, d = 11110000
+# PROC2 a = 00001110, b = 1111111, c = 11, d = 11110000
+# PROC2 a = 00001110, b = 1111111, c = 11, d = 11101111
+# PROC2 a = 00001110, b = 1111111, c = 11, d = 11110000
+# End time: 18:00:59 on Aug 23,2023, Elapsed time: 0:14:31
+# Errors: 0, Warnings: 1

@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time25/sim
+vbuilt_in_gates
+Z0 !s110 1693777424
+!i10b 1
+!s100 HA__C=W[^UU1?PjZ;WmnM2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IBaR52hnTQkjcN`6`GS8Xm2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time26/sim
+w1693776646
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time26/built_in_gates.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time26/built_in_gates.v
+!i122 2
+L0 2 18
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1693777424.000000
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time26/built_in_gates.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time26/built_in_gates.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtb_gates
+R0
+!i10b 1
+!s100 ;l;icihf8RRkFZMkjoQNb0
+R1
+IoeQc>]gP^0[d?N[BM=J@J1
+R2
+R3
+w1693777416
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time26/tb_gates.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time26/tb_gates.v
+!i122 3
+L0 2 21
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time26/tb_gates.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time26/tb_gates.v|
+!i113 1
+R6
+R7

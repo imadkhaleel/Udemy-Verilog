@@ -1,0 +1,15 @@
+{C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time27/tb_mux.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time27/tb_mux.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_mux
+
+Top level modules:
+	tb_mux
+
+} {} {}} {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time27/mux_1bit.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time27/mux_1bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux_1bit
+
+Top level modules:
+	mux_1bit
+
+} {} {}}

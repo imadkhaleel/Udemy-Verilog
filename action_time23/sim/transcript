@@ -1,0 +1,53 @@
+# Compile of ripple_adder_4bit_structural.v was successful.
+# Compile of testbench_4bit_adder.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testbench_4bit_adder
+# vsim -gui work.testbench_4bit_adder 
+# Start time: 20:26:35 on Sep 02,2023
+# Loading work.testbench_4bit_adder
+# Loading work.ripple_adder_4bit_structural
+# ** Error: (vsim-3033) Instantiation of 'full_adder_structural' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench_4bit_adder/RIPPLE_ADD_4BIT File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/ripple_adder_4bit_structural.v Line: 13
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/work
+# ** Error: (vsim-3033) Instantiation of 'full_adder_structural' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench_4bit_adder/RIPPLE_ADD_4BIT File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/ripple_adder_4bit_structural.v Line: 21
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/work
+# ** Error: (vsim-3033) Instantiation of 'full_adder_structural' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench_4bit_adder/RIPPLE_ADD_4BIT File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/ripple_adder_4bit_structural.v Line: 29
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/work
+# ** Error: (vsim-3033) Instantiation of 'full_adder_structural' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench_4bit_adder/RIPPLE_ADD_4BIT File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/ripple_adder_4bit_structural.v Line: 37
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/work
+# Error loading design
+# End time: 20:26:36 on Sep 02,2023, Elapsed time: 0:00:01
+# Errors: 4, Warnings: 6
+# Compile of ripple_adder_4bit_structural.v was successful.
+# Compile of testbench_4bit_adder.v was successful.
+# Compile of full_adder_structural.v was successful.
+# Compile of half_adder_structural.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.testbench_4bit_adder
+# vsim -gui work.testbench_4bit_adder 
+# Start time: 20:29:46 on Sep 02,2023
+# Loading work.testbench_4bit_adder
+# Loading work.ripple_adder_4bit_structural
+# Loading work.full_adder_structural
+# Loading work.half_adder_structural
+run -all
+# a = xxxx, b = xxxx, carry_in = x, sum = x, carry_out = z
+# a = 0000, b = 0000, carry_in = 0, sum = 0, carry_out = z
+# a = 0000, b = 0000, carry_in = 1, sum = 15, carry_out = z
+# a = 0001, b = 0001, carry_in = 0, sum = 0, carry_out = z
+# a = 0001, b = 0001, carry_in = 1, sum = 15, carry_out = z
+# a = 0011, b = 0110, carry_in = 0, sum = 5, carry_out = z
+# a = 1111, b = 1111, carry_in = 1, sum = 15, carry_out = z
+# a = 0000, b = 0000, carry_in = 0, sum = 0, carry_out = z
+# a = 0000, b = 0001, carry_in = 0, sum = 1, carry_out = z
+# a = 0001, b = 0000, carry_in = 0, sum = 1, carry_out = z
+# a = 0001, b = 0001, carry_in = 0, sum = 0, carry_out = z
+# End time: 20:35:27 on Sep 02,2023, Elapsed time: 0:05:41
+# Errors: 0, Warnings: 3

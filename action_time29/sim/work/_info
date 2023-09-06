@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time28/sim
+vtb_tristate
+Z0 !s110 1693882020
+!i10b 1
+!s100 1VP@YBMLZ?M3GD3]3[9SN0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I=JA1d;Fl@`iOQ9zS4aFe]0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time29/sim
+w1693881936
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time29/tb_tristate.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time29/tb_tristate.v
+!i122 1
+L0 1 24
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1693882020.000000
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time29/tb_tristate.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time29/tb_tristate.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtristate_buffer_1bit
+R0
+!i10b 1
+!s100 Re<l1`3:_e_zn;jR7Rc]M2
+R1
+IU^U6>8h:RbalJ20R71>ee3
+R2
+R3
+w1693882015
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time29/tristate_buffer_1bit.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time29/tristate_buffer_1bit.v
+!i122 2
+L0 1 8
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time29/tristate_buffer_1bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time29/tristate_buffer_1bit.v|
+!i113 1
+R6
+R7

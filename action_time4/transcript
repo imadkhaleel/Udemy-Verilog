@@ -1,0 +1,38 @@
+# Compile of testbench.v was successful.
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 21:01:52 on Aug 31,2023
+# Loading work.testbench
+# ** Error: (vsim-3033) Instantiation of 'full_adder_structural' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time20/testbench.v Line: 9
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time20/work
+# Error loading design
+# End time: 21:01:52 on Aug 31,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 5
+# Compile of testbench.v was successful.
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 21:03:02 on Aug 31,2023
+# Loading work.testbench
+# ** Error: (vsim-3033) Instantiation of 'full_adder_structural' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time20/testbench.v Line: 9
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time20/work
+# Error loading design
+# End time: 21:03:02 on Aug 31,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of testbench.v was successful.
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 21:05:24 on Aug 31,2023
+# Loading work.testbench
+# ** Error: (vsim-3033) Instantiation of 'full_adder_structural' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time20/testbench.v Line: 9
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time20/work/work
+# Error loading design
+# End time: 21:05:24 on Aug 31,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 5

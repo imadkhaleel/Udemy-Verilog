@@ -1,0 +1,27 @@
+# Compile of hello_world.v was successful.
+vsim -gui work.hello_world2
+# vsim -gui work.hello_world2 
+# Start time: 16:14:11 on Aug 22,2023
+# Loading work.hello_world2
+run
+# 
+# 	 My name is Imad and I started the course yesterday 
+# 
+run
+# Compile of hello_world.v was successful.
+run
+# Compile of hello_world.v was successful.
+run
+vsim work.hello_world
+# End time: 16:19:55 on Aug 22,2023, Elapsed time: 0:05:44
+# Errors: 0, Warnings: 4
+# vsim work.hello_world 
+# Start time: 16:19:55 on Aug 22,2023
+# Loading work.hello_world
+run
+# 
+# 	 My name is Imad and I start the course today! 
+# 
+# End time: 17:03:58 on Aug 22,2023, Elapsed time: 0:44:03
+# Errors: 0, Warnings: 1
+# Closing project C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time1/sim/project.mpf

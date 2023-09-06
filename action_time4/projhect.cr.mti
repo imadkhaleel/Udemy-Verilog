@@ -1,0 +1,8 @@
+{C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time8/logical_operators.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time8/logical_operators.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module logical_operators
+
+Top level modules:
+	logical_operators
+
+} {} {}}

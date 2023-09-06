@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time29/sim
+vcomparator_1bit
+Z0 !s110 1693884162
+!i10b 1
+!s100 GIfQ^II<9:5J@88k5go@N2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Id9NL6amIRdU5Ea=8W2]C;2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time31/sim
+w1693883682
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time31/comparator_1bit.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time31/comparator_1bit.v
+!i122 2
+L0 1 19
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1693884162.000000
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time31/comparator_1bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time31/comparator_1bit.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtb_comp
+R0
+!i10b 1
+!s100 _zoQNbNnPUzXWdSI^Ch743
+R1
+Id2z2WH:SYFnai][XgY@zN0
+R2
+R3
+w1693884159
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time31/tb_comp.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time31/tb_comp.v
+!i122 3
+L0 1 29
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time31/tb_comp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time31/tb_comp.v|
+!i113 1
+R6
+R7

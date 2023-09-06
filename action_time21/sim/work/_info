@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time20/sim
+vfull_adder_dataflow
+Z0 !s110 1693600505
+!i10b 1
+!s100 =1[O_E`bUR`B5OcQPT^1R1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IXi^9K:m^9c>KCImKZ6;_g3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time21/sim
+w1693600499
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time21/full_adder_dataflow.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time21/full_adder_dataflow.v
+!i122 1
+L0 1 22
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1693600505.000000
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time21/full_adder_dataflow.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time21/full_adder_dataflow.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtestbench
+R0
+!i10b 1
+!s100 S<K6o>5n:W`c0b@W40<8R2
+R1
+IAVaaX^g5LgOBXmHh[hk[B0
+R2
+R3
+w1693600466
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time21/testbench.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time21/testbench.v
+!i122 2
+L0 1 32
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time21/testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time21/testbench.v|
+!i113 1
+R6
+R7

@@ -1,0 +1,83 @@
+# Compile of adder_4bit_behavioral.v failed with 1 errors.
+# Compile of tb_adder_4bit_behav.v failed with 2 errors.
+# 2 compiles, 2 failed with 3 errors.
+# Compile of adder_4bit_behavioral.v was successful.
+# Compile of tb_adder_4bit_behav.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_adder_4bit_behav
+# vsim -gui work.tb_adder_4bit_behav 
+# Start time: 16:37:57 on Sep 03,2023
+# Loading work.tb_adder_4bit_behav
+# Loading work.adder_4bit_behavioral
+run -all
+#                    1a = 0 4, b = 0 4, carry_in = 00, sum = 8, carry_out = 0
+#                    2a = 0 4, b = 0 3, carry_in = 00, sum = 7, carry_out = 0
+#                    3a = 0 4, b = 0 2, carry_in = 00, sum = 6, carry_out = 0
+#                    4a = 0 4, b = 0 1, carry_in = 00, sum = 5, carry_out = 0
+#                    5a = 0 3, b = 0 4, carry_in = 01, sum = 8, carry_out = 0
+#                    6a = 0 3, b = 0 3, carry_in = 01, sum = 7, carry_out = 0
+#                    7a = 0 3, b = 0 2, carry_in = 01, sum = 6, carry_out = 0
+#                    8a = 0 3, b = 0 1, carry_in = 01, sum = 5, carry_out = 0
+#                    9a = 0 2, b = 0 4, carry_in = 00, sum = 6, carry_out = 0
+#                   10a = 0 2, b = 0 3, carry_in = 00, sum = 5, carry_out = 0
+#                   11a = 0 2, b = 0 2, carry_in = 00, sum = 4, carry_out = 0
+#                   12a = 0 2, b = 0 1, carry_in = 00, sum = 3, carry_out = 0
+#                   13a = 0 1, b = 0 4, carry_in = 01, sum = 6, carry_out = 0
+#                   14a = 0 1, b = 0 3, carry_in = 01, sum = 5, carry_out = 0
+#                   15a = 0 1, b = 0 2, carry_in = 01, sum = 4, carry_out = 0
+#                   16a = 0 1, b = 0 1, carry_in = 01, sum = 3, carry_out = 0
+# ** Note: $stop    : C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time25/tb_adder_4bit_behav.v(31)
+#    Time: 26 us  Iteration: 0  Instance: /tb_adder_4bit_behav
+# Break in Module tb_adder_4bit_behav at C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time25/tb_adder_4bit_behav.v line 31
+add wave -position end  sim:/tb_adder_4bit_behav/LOOP_LIMIT
+add wave -position end  sim:/tb_adder_4bit_behav/a
+add wave -position end  sim:/tb_adder_4bit_behav/b
+add wave -position end  sim:/tb_adder_4bit_behav/cin
+add wave -position end  sim:/tb_adder_4bit_behav/sum
+add wave -position end  sim:/tb_adder_4bit_behav/cout
+add wave -position end  sim:/tb_adder_4bit_behav/i
+add wave -position end  sim:/tb_adder_4bit_behav/j
+run -all
+quit -sim
+# End time: 17:42:13 on Sep 03,2023, Elapsed time: 1:04:16
+# Errors: 0, Warnings: 6
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of built_in_gates.v was successful.
+# Compile of tb_gates.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_gates
+# vsim -gui work.tb_gates 
+# Start time: 17:43:09 on Sep 03,2023
+# Loading work.tb_gates
+# Loading work.built_in_gates
+# ** Error (suppressible): (vsim-3009) [TSCALE] - Module 'tb_gates' does not have a timeunit/timeprecision specification in effect, but other modules do.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_gates/GATES1 File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time26/built_in_gates.v
+# Error loading design
+# End time: 17:43:10 on Sep 03,2023, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 5
+# Compile of built_in_gates.v was successful.
+# Compile of tb_gates.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_gates
+# vsim -gui work.tb_gates 
+# Start time: 17:43:51 on Sep 03,2023
+# Loading work.tb_gates
+# Loading work.built_in_gates
+add wave -position end  sim:/tb_gates/a
+add wave -position end  sim:/tb_gates/b
+add wave -position end  sim:/tb_gates/c
+add wave -position end  sim:/tb_gates/d
+add wave -position end  sim:/tb_gates/o1
+add wave -position end  sim:/tb_gates/o2
+add wave -position end  sim:/tb_gates/o3
+add wave -position end  sim:/tb_gates/o4
+add wave -position end  sim:/tb_gates/o5
+add wave -position end  sim:/tb_gates/o6
+add wave -position end  sim:/tb_gates/o7
+add wave -position end  sim:/tb_gates/o8
+add wave -position end  sim:/tb_gates/o9
+add wave -position end  sim:/tb_gates/o10
+run -all
+# End time: 17:45:45 on Sep 03,2023, Elapsed time: 0:01:54
+# Errors: 0, Warnings: 2

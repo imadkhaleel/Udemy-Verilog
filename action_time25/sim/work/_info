@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time24/sim
+vadder_4bit_behavioral
+Z0 !s110 1693773472
+!i10b 1
+!s100 ?J8AF[0WE]5QCollQWSW_0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IgOGkRaGjWSlVE]^jTG=Jk0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time25/sim
+w1693773437
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time25/adder_4bit_behavioral.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time25/adder_4bit_behavioral.v
+!i122 0
+L0 1 11
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1693773472.000000
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time25/adder_4bit_behavioral.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time25/adder_4bit_behavioral.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtb_adder_4bit_behav
+R0
+!i10b 1
+!s100 ^bO2m7j;9mX44AWL00AVD2
+R1
+I`RZXFDOSVSY@iT_AZSG=C2
+R2
+R3
+w1693773457
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time25/tb_adder_4bit_behav.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time25/tb_adder_4bit_behav.v
+!i122 1
+L0 2 33
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time25/tb_adder_4bit_behav.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time25/tb_adder_4bit_behav.v|
+!i113 1
+R6
+R7

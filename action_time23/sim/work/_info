@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time22/sim
+vripple_adder_4bit_structural
+Z0 !s110 1693700732
+!i10b 1
+!s100 @PD=975_A]]zmPCZcbe>h3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IMY6j3_mBdC?Qj7ZkLacd_1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/sim
+w1693700678
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/ripple_adder_4bit_structural.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/ripple_adder_4bit_structural.v
+!i122 10
+L0 1 45
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1693700732.000000
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/ripple_adder_4bit_structural.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/ripple_adder_4bit_structural.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtestbench_4bit_adder
+R0
+!i10b 1
+!s100 6gV9kICN53K=??_o1^lT[2
+R1
+I2^ZgAGn`5Yi`I>a0[NVY?3
+R2
+R3
+w1693700408
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/testbench_4bit_adder.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/testbench_4bit_adder.v
+!i122 11
+L0 1 42
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/testbench_4bit_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time23/testbench_4bit_adder.v|
+!i113 1
+R6
+R7

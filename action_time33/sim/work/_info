@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time31/sim
+vadders_tree
+Z0 !s110 1693946177
+!i10b 1
+!s100 F[>[O[R7G15=:TUCjnQ:e1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IFJd:9TfEW2I=h2Pc1mN5K1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time33/sim
+w1693945025
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time33/adders_tree.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time33/adders_tree.v
+!i122 1
+L0 1 14
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1693946176.000000
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time33/adders_tree.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time33/adders_tree.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_adders_tree
+R0
+!i10b 1
+!s100 CgeAJZIE9M6=dVXMFV4YL1
+R1
+Ij`RnD2UK[Cch<o?1Ofb<Y2
+R2
+R3
+w1693946169
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time33/tb_adders_tree.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time33/tb_adders_tree.v
+!i122 2
+L0 1 30
+R4
+r1
+!s85 0
+31
+!s108 1693946177.000000
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time33/tb_adders_tree.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time33/tb_adders_tree.v|
+!i113 1
+R5
+R6
