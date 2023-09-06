@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/action_time34/sim
+vadder_nbit
+Z0 !s110 1694019188
+!i10b 1
+!s100 <F?nXA3709X@T4^4h=VMC2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IbfNcih2A:Z3:7Q16<oX_I1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time35/sim
+w1694019056
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time35/adder_nbit.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time35/adder_nbit.v
+!i122 4
+L0 1 16
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1694019187.000000
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time35/adder_nbit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time35/adder_nbit.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_adder_nbit
+R0
+!i10b 1
+!s100 DI^=JWA[?P4z0ATfH3[HJ2
+R1
+IQ:zUnHmQ9CLgUK3fMlFgL1
+R2
+R3
+w1694019182
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time35/tb_adder_nbit.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time35/tb_adder_nbit.v
+!i122 5
+L0 2 26
+R4
+r1
+!s85 0
+31
+!s108 1694019188.000000
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time35/tb_adder_nbit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time35/tb_adder_nbit.v|
+!i113 1
+R5
+R6

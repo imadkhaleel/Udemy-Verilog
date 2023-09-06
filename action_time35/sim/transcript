@@ -1,0 +1,51 @@
+# Compile of adder_nbit.v failed with 1 errors.
+# Compile of tb_adder_nbit.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of adder_nbit.v failed with 4 errors.
+# Compile of tb_adder_nbit.v was successful.
+# 2 compiles, 1 failed with 4 errors.
+# Compile of adder_nbit.v was successful.
+# Compile of tb_adder_nbit.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_adder_nbit
+# vsim -gui work.tb_adder_nbit 
+# Start time: 12:51:13 on Sep 06,2023
+# Loading work.tb_adder_nbit
+# Loading work.adder_nbit
+run -all
+# a =    x, b =    x, sum =    x
+# a =    0, b =    0, sum =    0
+# a =    1, b =   99, sum =  100
+# a =   33, b =   66, sum =   99
+# a =  100, b =   47, sum =  147
+# ** Note: $stop    : C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time35/tb_adder_nbit.v(24)
+#    Time: 6 ps  Iteration: 0  Instance: /tb_adder_nbit
+# Break in Module tb_adder_nbit at C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time35/tb_adder_nbit.v line 24
+add wave -position end  sim:/tb_adder_nbit/ADDER_WIDTH
+add wave -position end  sim:/tb_adder_nbit/a
+add wave -position end  sim:/tb_adder_nbit/b
+add wave -position end  sim:/tb_adder_nbit/sum
+run -all
+# Compile of adder_nbit.v was successful.
+# Compile of tb_adder_nbit.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_adder_nbit
+# End time: 12:53:15 on Sep 06,2023, Elapsed time: 0:02:02
+# Errors: 0, Warnings: 8
+# vsim -gui work.tb_adder_nbit 
+# Start time: 12:53:15 on Sep 06,2023
+# Loading work.tb_adder_nbit
+# Loading work.adder_nbit
+add wave -position end  sim:/tb_adder_nbit/ADDER_WIDTH
+add wave -position end  sim:/tb_adder_nbit/a
+add wave -position end  sim:/tb_adder_nbit/b
+add wave -position end  sim:/tb_adder_nbit/sum
+run -all
+# a =    x, b =    x, sum =    x
+# a =    0, b =    0, sum =    0
+# a =    1, b =   99, sum =  100
+# a =   33, b =   66, sum =   99
+# a =  100, b =   47, sum =  147
+# ** Note: $stop    : C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time35/tb_adder_nbit.v(25)
+#    Time: 6 us  Iteration: 0  Instance: /tb_adder_nbit
+# Break in Module tb_adder_nbit at C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time35/tb_adder_nbit.v line 25
