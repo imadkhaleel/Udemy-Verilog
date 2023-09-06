@@ -1,0 +1,42 @@
+# Compile of decoder_nbit.v failed with 1 errors.
+# Compile of tb_decoder_nbit.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of decoder_nbit.v failed with 1 errors.
+# Compile of tb_decoder_nbit.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of decoder_nbit.v failed with 1 errors.
+# Compile of tb_decoder_nbit.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of decoder_nbit.v was successful.
+# Compile of tb_decoder_nbit.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_decoder_nbit
+# vsim -gui work.tb_decoder_nbit 
+# Start time: 17:23:38 on Sep 06,2023
+# Loading work.tb_decoder_nbit
+# ** Error: (vsim-3033) Instantiation of 'decoder_nbit' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_decoder_nbit File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time37/tb_decoder_nbit.v Line: 13
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time37/sim/work
+# Error loading design
+# End time: 17:23:38 on Sep 06,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 8
+# Compile of decoder_nbit.v was successful.
+# Compile of tb_decoder_nbit.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_decoder_nbit
+# vsim -gui work.tb_decoder_nbit 
+# Start time: 17:25:12 on Sep 06,2023
+# Loading work.tb_decoder_nbit
+# Loading work.decoder_nbit
+run -all
+#                    0a = x, enable = x, y = xxxxxxxx
+#                    1a = 0, enable = 0, y = 00000000
+#                    2a = 0, enable = 1, y = 00000001
+#                    3a = 1, enable = 1, y = 00000010
+#                    4a = 2, enable = 1, y = 00000100
+#                    5a = 3, enable = 1, y = 00001000
+#                    6a = 4, enable = 1, y = 00010000
+#                    7a = 5, enable = 1, y = 00100000
+#                    8a = 6, enable = 1, y = 01000000
+#                    9a = 7, enable = 1, y = 10000000

@@ -9,7 +9,7 @@ module tb_comparator_nbit();
     wire greater;
 
     comparator_nbit
-    #(N.(CMP_WIDTH))
+    #(.N(CMP_WIDTH))
     CMP1
     (
         .a(a),

@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time36/sim
+vdecoder_bit
+!s110 1694035410
+!i10b 1
+!s100 Z02a^8dQ3K5<JNlYU[l@E3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IITSiIgjH=AGY:DCQ=HzEg0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time37/sim
+w1694035408
+Z3 8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time37/decoder_nbit.v
+Z4 FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time37/decoder_nbit.v
+!i122 3
+Z5 L0 1 17
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1694035410.000000
+Z7 !s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time37/decoder_nbit.v|
+Z8 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time37/decoder_nbit.v|
+!i113 1
+Z9 o-work work
+Z10 tCvgOpt 0
+vdecoder_nbit
+Z11 !s110 1694035492
+!i10b 1
+!s100 SnhQ@G8gj>82dGhV0i31L1
+R0
+I9Ho_j`NgXKUh18fa1lYZg3
+R1
+R2
+w1694035488
+R3
+R4
+!i122 5
+R5
+R6
+r1
+!s85 0
+31
+!s108 1694035491.000000
+R7
+R8
+!i113 1
+R9
+R10
+vtb_decoder_nbit
+R11
+!i10b 1
+!s100 T:>GZ9JGhE^B7Y?9UEUHJ1
+R0
+ICeKjVm7I^ll`T7XC9fY2S3
+R1
+R2
+w1694035445
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time37/tb_decoder_nbit.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time37/tb_decoder_nbit.v
+!i122 6
+L0 2 27
+R6
+r1
+!s85 0
+31
+!s108 1694035492.000000
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time37/tb_decoder_nbit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time37/tb_decoder_nbit.v|
+!i113 1
+R9
+R10
