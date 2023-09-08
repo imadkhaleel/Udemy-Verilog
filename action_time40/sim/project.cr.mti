@@ -1,0 +1,15 @@
+{C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time40/prio_enc1_4to2.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time40/prio_enc1_4to2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module prio_enc1_4to2
+
+Top level modules:
+	prio_enc1_4to2
+
+} {} {}} {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time40/tb_prio_enc1_4to2.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time40/tb_prio_enc1_4to2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_prio_enc1_4to2
+
+Top level modules:
+	tb_prio_enc1_4to2
+
+} {} {}}

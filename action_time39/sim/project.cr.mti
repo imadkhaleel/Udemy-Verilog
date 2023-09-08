@@ -1,0 +1,15 @@
+{C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time39/encoder_8to3.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time39/encoder_8to3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module encoder_3to8
+
+Top level modules:
+	encoder_3to8
+
+} {} {}} {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time39/tb_encoder_8to3.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time39/tb_encoder_8to3.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_encoder_8to3
+
+Top level modules:
+	tb_encoder_8to3
+
+} {} {}}
