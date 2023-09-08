@@ -1,0 +1,19 @@
+# Compile of mux_4x_nbit.v was successful.
+# Compile of tb_mux_4x_nbit.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_mux_4x_nbit
+# vsim -gui work.tb_mux_4x_nbit 
+# Start time: 19:33:33 on Sep 08,2023
+# Loading work.tb_mux_4x_nbit
+# Loading work.mux_4x_nbit
+run -all
+# a =   x, b =   x, c =   x, d =   x, sel = x, y =   x
+# a =   0, b =   0, c =   0, d =   0, sel = 0, y =   0
+# a = 102, b = 182, c = 198, d =  70, sel = 2, y = 198
+# a =  46, b = 103, c =  58, d = 106, sel = 2, y =  58
+# a = 111, b =  86, c =  53, d = 212, sel = 0, y = 111
+# a = 125, b = 219, c =   5, d = 227, sel = 2, y =   5
+# a = 229, b =   5, c =  37, d = 233, sel = 0, y = 229
+# a = 138, b =  88, c = 139, d =  86, sel = 1, y =  88
+# a = 185, b =  64, c = 128, d =  14, sel = 1, y =  64
+# a = 142, b = 192, c = 151, d =  37, sel = 0, y = 142
