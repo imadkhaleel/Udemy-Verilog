@@ -17,3 +17,44 @@ run -all
 # a = 138, b =  88, c = 139, d =  86, sel = 1, y =  88
 # a = 185, b =  64, c = 128, d =  14, sel = 1, y =  64
 # a = 142, b = 192, c = 151, d =  37, sel = 0, y = 142
+quit -sim
+# End time: 20:23:01 on Sep 08,2023, Elapsed time: 0:49:28
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of demux_nbit_x4.v was successful.
+# Compile of tb_demux_nbit_x4.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of demux_nbit_x4.v was successful.
+# Compile of tb_demux_nbit_x4.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of demux_nbit_x4.v was successful.
+# Compile of tb_demux_nbit_x4.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of demux_nbit_x4.v was successful.
+# Compile of tb_demux_nbit_x4.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of demux_nbit_x4.v was successful.
+# Compile of tb_demux_nbit_x4.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of demux_nbit_x4.v was successful.
+# Compile of tb_demux_nbit_x4.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_demux_nbit_x4
+# vsim -gui work.tb_demux_nbit_x4 
+# Start time: 20:29:57 on Sep 08,2023
+# Loading work.tb_demux_nbit_x4
+# Loading work.demux_nbit_x4
+run -all
+#                    0sel = x, a =   x, b =   x, c =   x, d =   x  x
+#                    1sel = 0, a =   0, b =   0, c =   0, d =   0  0
+#                    2sel = 0, a =  38, b =  38, c =   0, d =   0  0
+#                    3sel = 1, a = 102, b =   0, c = 102, d =   0  0
+#                    4sel = 2, a = 182, b =   0, c =   0, d = 182  0
+#                    5sel = 3, a = 198, b =   0, c =   0, d =   0198
+#                    6sel = 0, a =  70, b =  70, c =   0, d =   0  0
+#                    7sel = 1, a = 114, b =   0, c = 114, d =   0  0
+#                    8sel = 2, a =  46, b =   0, c =   0, d =  46  0
+#                    9sel = 3, a = 103, b =   0, c =   0, d =   0103
+# End time: 20:54:15 on Sep 08,2023, Elapsed time: 0:24:18
+# Errors: 0, Warnings: 10
