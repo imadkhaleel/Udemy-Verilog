@@ -1,0 +1,13 @@
+# Compile of clkgen.v failed with 1 errors.
+# Compile of clkgen.v was successful.
+vsim -gui work.clkgen
+# vsim -gui work.clkgen 
+# Start time: 12:29:52 on Sep 10,2023
+# Loading work.clkgen
+add wave -position end  sim:/clkgen/clock1
+add wave -position end  sim:/clkgen/clock2
+add wave -position end  sim:/clkgen/clock3
+run -all
+# ** Note: $stop    : C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time46/clkgen.v(31)
+#    Time: 40 us  Iteration: 0  Instance: /clkgen
+# Break in Module clkgen at C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time46/clkgen.v line 31
