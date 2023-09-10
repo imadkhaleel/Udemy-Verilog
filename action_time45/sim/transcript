@@ -1,0 +1,60 @@
+# Compile of alu.v failed with 1 errors.
+# Compile of tb_alu.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of alu.v failed with 6 errors.
+# Compile of tb_alu.v was successful.
+# 2 compiles, 1 failed with 6 errors.
+# Compile of alu.v failed with 1 errors.
+# Compile of tb_alu.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of alu.v was successful.
+# Compile of tb_alu.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_alu
+# vsim -gui work.tb_alu 
+# Start time: 19:29:34 on Sep 09,2023
+# Loading work.tb_alu
+# ** Error: (vsim-3033) Instantiation of 'ALU' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_alu File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time45/tb_alu.v Line: 21
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time45/sim/work
+# Error loading design
+# End time: 19:29:35 on Sep 09,2023, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 8
+vsim -gui work.tb_alu
+# vsim -gui work.tb_alu 
+# Start time: 19:30:01 on Sep 09,2023
+# Loading work.tb_alu
+# ** Error: (vsim-3033) Instantiation of 'ALU' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_alu File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time45/tb_alu.v Line: 21
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time45/sim/work
+# Error loading design
+# End time: 19:30:01 on Sep 09,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+# Compile of alu.v was successful.
+# Compile of tb_alu.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_alu
+# vsim -gui work.tb_alu 
+# Start time: 19:30:14 on Sep 09,2023
+# Loading work.tb_alu
+# Loading work.alu
+run -all
+#                    0 opcode =  x, a =   x, b =   x, y =   x, carry_out=x, borrow=x, zero=x, parity=x, invalid_op=x
+#                    1 opcode =  0, a =   x, b =   x, y =   0, carry_out=0, borrow=0, zero=1, parity=0, invalid_op=1
+#                    2 opcode =  1, a =   9, b =  33, y =  42, carry_out=0, borrow=0, zero=0, parity=1, invalid_op=0
+#                    3 opcode =  2, a =   9, b =  33, y =  43, carry_out=0, borrow=0, zero=0, parity=0, invalid_op=0
+#                    4 opcode =  3, a =  65, b =  64, y =   1, carry_out=0, borrow=0, zero=0, parity=1, invalid_op=0
+#                    5 opcode =  3, a =  65, b =  66, y = 255, carry_out=0, borrow=1, zero=0, parity=0, invalid_op=0
+#                    6 opcode =  4, a = 233, b =  69, y = 234, carry_out=0, borrow=0, zero=0, parity=1, invalid_op=0
+#                    7 opcode =  5, a =   0, b =   3, y = 255, carry_out=0, borrow=1, zero=0, parity=0, invalid_op=0
+#                    8 opcode =  6, a =   2, b =   3, y =   2, carry_out=0, borrow=0, zero=0, parity=1, invalid_op=0
+#                    9 opcode =  7, a = 255, b =   3, y =   0, carry_out=0, borrow=0, zero=1, parity=0, invalid_op=0
+#                   10 opcode =  8, a =   1, b =   3, y =   1, carry_out=0, borrow=0, zero=0, parity=1, invalid_op=0
+#                   11 opcode =  9, a = 128, b =   3, y =  64, carry_out=0, borrow=0, zero=0, parity=1, invalid_op=0
+# ** Note: $stop    : C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time45/tb_alu.v(58)
+#    Time: 12 us  Iteration: 0  Instance: /tb_alu
+# Break in Module tb_alu at C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time45/tb_alu.v line 58
+# End time: 22:41:10 on Sep 09,2023, Elapsed time: 3:10:56
+# Errors: 0, Warnings: 2
