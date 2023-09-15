@@ -1,0 +1,74 @@
+# Compile of shift_reg_pipo.v was successful.
+# Compile of tb_shift_reg_pipo.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_shift_reg_pipo
+# vsim -gui work.tb_shift_reg_pipo 
+# Start time: 17:08:57 on Sep 11,2023
+# Loading work.tb_shift_reg_pipo
+# Loading work.shift_reg_pipo
+add wave -position end  sim:/tb_shift_reg_pipo/d
+add wave -position end  sim:/tb_shift_reg_pipo/clk
+add wave -position end  sim:/tb_shift_reg_pipo/reset_n
+add wave -position end  sim:/tb_shift_reg_pipo/q
+add wave -position end  sim:/tb_shift_reg_pipo/i
+run -all
+# ** Note: $finish    : C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time51/tb_shift_reg_pipo.v(40)
+#    Time: 20 us  Iteration: 0  Instance: /tb_shift_reg_pipo
+# 1
+# Break in Module tb_shift_reg_pipo at C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time51/tb_shift_reg_pipo.v line 40
+quit -sim
+# End time: 17:17:37 on Sep 11,2023, Elapsed time: 0:08:40
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of shift_reg_sipo.v was successful.
+# Compile of tb_shift_reg_sipo.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_shift_reg_sipo
+# vsim -gui work.tb_shift_reg_sipo 
+# Start time: 17:18:17 on Sep 11,2023
+# Loading work.tb_shift_reg_sipo
+# ** Error: (vsim-3033) Instantiation of 'shift_reg_sipo' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_shift_reg_sipo File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time52/tb_shift_reg_sipo.v Line: 11
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time52/work
+# Error loading design
+# End time: 17:18:17 on Sep 11,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 5
+# Compile of shift_reg_sipo.v was successful.
+# Compile of tb_shift_reg_sipo.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_shift_reg_sipo
+# vsim -gui work.tb_shift_reg_sipo 
+# Start time: 17:19:05 on Sep 11,2023
+# Loading work.tb_shift_reg_sipo
+# ** Error: (vsim-3033) Instantiation of 'shift_reg_sipo' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_shift_reg_sipo File: C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time52/tb_shift_reg_sipo.v Line: 11
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time52/work
+# Error loading design
+# End time: 17:19:06 on Sep 11,2023, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 2
+# Compile of shift_reg_sipo.v was successful.
+# Compile of tb_shift_reg_sipo.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_shift_reg_sipo
+# vsim -gui work.tb_shift_reg_sipo 
+# Start time: 17:19:55 on Sep 11,2023
+# Loading work.tb_shift_reg_sipo
+# Loading work.shift_reg_sipo
+add wave -position end  sim:/tb_shift_reg_sipo/sdi
+add wave -position end  sim:/tb_shift_reg_sipo/clk
+add wave -position end  sim:/tb_shift_reg_sipo/reset_n
+add wave -position end  sim:/tb_shift_reg_sipo/q
+run -all
+# ** Note: $finish    : C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time52/tb_shift_reg_sipo.v(46)
+#    Time: 40 us  Iteration: 0  Instance: /tb_shift_reg_sipo
+# 1
+# Break in Module tb_shift_reg_sipo at C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time52/tb_shift_reg_sipo.v line 46
+run -all
+quit
+# Break key hit
+# Simulation stop requested.
+# End time: 18:12:42 on Sep 11,2023, Elapsed time: 0:52:47
+# Errors: 0, Warnings: 4

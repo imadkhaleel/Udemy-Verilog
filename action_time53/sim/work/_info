@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time52
+vshift_reg_siso
+Z0 !s110 1694470441
+!i10b 1
+!s100 82^agcF6o?`29^W81G2en0
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I01_1[GKL1?foBX@]Rh4lH0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time53/sim
+w1694470437
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time53/shift_reg_siso.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time53/shift_reg_siso.v
+!i122 1
+L0 1 22
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1694470441.000000
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time53/shift_reg_siso.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time53/shift_reg_siso.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtb_shift_reg_siso
+R0
+!i10b 1
+!s100 L:_IhKc1QaT81B[ZF^QJC0
+R1
+IMb[Kh`GYbnS[3ZXETAX6=2
+R2
+R3
+w1694470300
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time53/tb_shift_reg_siso.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time53/tb_shift_reg_siso.v
+!i122 2
+L0 2 42
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time53/tb_shift_reg_siso.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time53/tb_shift_reg_siso.v|
+!i113 1
+R6
+R7

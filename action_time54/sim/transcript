@@ -1,0 +1,13 @@
+# Compile of shift_reg_piso.v was successful.
+# Compile of tb_shift_reg_piso.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of shift_reg_piso.v was successful.
+# Compile of tb_shift_reg_piso.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_shift_reg_piso
+# vsim -gui work.tb_shift_reg_piso 
+# Start time: 18:41:42 on Sep 11,2023
+# Loading work.tb_shift_reg_piso
+# Loading work.shift_reg_piso
+# End time: 19:08:32 on Sep 11,2023, Elapsed time: 0:26:50
+# Errors: 0, Warnings: 6

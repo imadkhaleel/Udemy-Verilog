@@ -1,0 +1,15 @@
+{C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time49/d_ff_sync_rstn.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time49/d_ff_sync_rstn.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module d_ff_sync_rstn
+
+Top level modules:
+	d_ff_sync_rstn
+
+} {} {}} {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time49/tb_d_ff_rstn.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time49/tb_d_ff_rstn.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_d_dff_rstn
+
+Top level modules:
+	tb_d_dff_rstn
+
+} {} {}}
