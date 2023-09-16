@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time54/sim
+vhex_7seg_decoder
+Z0 !s110 1694810397
+!i10b 1
+!s100 g]3HhHJ1aF[RF0mJzb87L3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IAJ3@KPUlf<jQLRDe6O3Q62
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_timeSSD/sim
+w1694809826
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_timeSSD/hex_7seg_decoder.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_timeSSD/hex_7seg_decoder.v
+!i122 1
+L0 1 36
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1694810397.000000
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_timeSSD/hex_7seg_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_timeSSD/hex_7seg_decoder.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtb_hex_7seg_decoder
+R0
+!i10b 1
+!s100 M3X3gdaMM?]ZLDC8VEz<40
+R1
+I[DWIMTb5mS[jh[n?>h^=;3
+R2
+R3
+w1694810394
+8C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_timeSSD/tb_hex_7seg_decoder.v
+FC:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_timeSSD/tb_hex_7seg_decoder.v
+!i122 2
+L0 1 30
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_timeSSD/tb_hex_7seg_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_timeSSD/tb_hex_7seg_decoder.v|
+!i113 1
+R6
+R7

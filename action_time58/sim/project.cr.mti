@@ -1,0 +1,15 @@
+{C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time58/tb_counter_up_down_load_nbit.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time58/tb_counter_up_down_load_nbit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_counter_up_down_load_nbit
+
+Top level modules:
+	tb_counter_up_down_load_nbit
+
+} {} {}} {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time58/counter_up_down_load_nbit.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time58/counter_up_down_load_nbit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter_up_down_load_nbit
+
+Top level modules:
+	counter_up_down_load_nbit
+
+} {} {}}

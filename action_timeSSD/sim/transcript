@@ -1,0 +1,96 @@
+# Compile of counter_nbit.v failed with 1 errors.
+# Compile of tb_counter_nbit.v failed with 2 errors.
+# 2 compiles, 2 failed with 3 errors.
+# Compile of counter_nbit.v was successful.
+# Compile of tb_counter_nbit.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of counter_nbit.v was successful.
+# Compile of tb_counter_nbit.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_counter_nbit
+# vsim -gui work.tb_counter_nbit 
+# Start time: 19:09:52 on Sep 15,2023
+# Loading work.tb_counter_nbit
+# Loading work.counter_nbit
+add wave -position end  sim:/tb_counter_nbit/CNT_WIDTH
+add wave -position end  sim:/tb_counter_nbit/clk
+add wave -position end  sim:/tb_counter_nbit/reset_n
+add wave -position end  sim:/tb_counter_nbit/counter
+run -all
+#                    0counter = x
+#                    1counter = 0
+#                    3counter = 1
+#                    4counter = 2
+#                    5counter = 3
+#                    6counter = 4
+#                    7counter = 5
+#                    8counter = 6
+#                    9counter = 7
+#                   10counter = 0
+#                   11counter = 1
+#                   12counter = 2
+#                   13counter = 3
+#                   14counter = 4
+#                   15counter = 5
+#                   16counter = 6
+#                   17counter = 7
+#                   18counter = 0
+#                   19counter = 1
+#                   20counter = 2
+#                   21counter = 3
+#                   22counter = 4
+# ** Note: $stop    : C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time57/tb_counter_nbit.v(22)
+#    Time: 22200 ns  Iteration: 0  Instance: /tb_counter_nbit
+# Break in Module tb_counter_nbit at C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time57/tb_counter_nbit.v line 22
+quit -sim
+# End time: 20:28:17 on Sep 15,2023, Elapsed time: 1:18:25
+# Errors: 0, Warnings: 7
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of counter_up_down_load_nbit.v failed with 3 errors.
+# Compile of tb_counter_up_down_load_nbit.v was successful.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of counter_up_down_load_nbit.v failed with 1 errors.
+# Compile of tb_counter_up_down_load_nbit.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of counter_up_down_load_nbit.v was successful.
+# Compile of tb_counter_up_down_load_nbit.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_counter_up_down_load_nbit
+# vsim -gui work.tb_counter_up_down_load_nbit 
+# Start time: 20:32:53 on Sep 15,2023
+# Loading work.tb_counter_up_down_load_nbit
+# Loading work.counter_up_down_load_nbit
+add wave -position end  sim:/tb_counter_up_down_load_nbit/CNT_WIDTH
+add wave -position end  sim:/tb_counter_up_down_load_nbit/clk
+add wave -position end  sim:/tb_counter_up_down_load_nbit/reset_n
+add wave -position end  sim:/tb_counter_up_down_load_nbit/load_en
+add wave -position end  sim:/tb_counter_up_down_load_nbit/counter_in
+add wave -position end  sim:/tb_counter_up_down_load_nbit/up_down
+add wave -position end  sim:/tb_counter_up_down_load_nbit/counter_out
+run -all
+#                    0 load_en = x, up_down = x, counter_in = x, counter_out = x
+#                    1 load_en = 0, up_down = 0, counter_in = 0, counter_out = 0
+#                    3 load_en = 0, up_down = 0, counter_in = 0, counter_out = 7
+#                    4 load_en = 0, up_down = 0, counter_in = 0, counter_out = 6
+#                    5 load_en = 1, up_down = 0, counter_in = 3, counter_out = 5
+#                    6 load_en = 0, up_down = 1, counter_in = 3, counter_out = 3
+#                    7 load_en = 0, up_down = 1, counter_in = 3, counter_out = 4
+#                    8 load_en = 0, up_down = 1, counter_in = 3, counter_out = 5
+#                    9 load_en = 0, up_down = 1, counter_in = 3, counter_out = 6
+#                   10 load_en = 0, up_down = 1, counter_in = 3, counter_out = 7
+#                   11 load_en = 0, up_down = 0, counter_in = 3, counter_out = 0
+#                   12 load_en = 0, up_down = 0, counter_in = 3, counter_out = 7
+#                   13 load_en = 0, up_down = 0, counter_in = 3, counter_out = 6
+#                   14 load_en = 0, up_down = 0, counter_in = 3, counter_out = 5
+#                   15 load_en = 0, up_down = 0, counter_in = 3, counter_out = 4
+#                   16 load_en = 0, up_down = 0, counter_in = 3, counter_out = 3
+#                   17 load_en = 0, up_down = 0, counter_in = 3, counter_out = 2
+#                   18 load_en = 0, up_down = 0, counter_in = 3, counter_out = 1
+#                   19 load_en = 0, up_down = 0, counter_in = 3, counter_out = 0
+#                   20 load_en = 0, up_down = 0, counter_in = 3, counter_out = 7
+# ** Note: $stop    : C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time58/tb_counter_up_down_load_nbit.v(43)
+#    Time: 20 us  Iteration: 0  Instance: /tb_counter_up_down_load_nbit
+# Break in Module tb_counter_up_down_load_nbit at C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time58/tb_counter_up_down_load_nbit.v line 43
+# End time: 21:04:53 on Sep 15,2023, Elapsed time: 0:32:00
+# Errors: 0, Warnings: 7
