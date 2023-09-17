@@ -1,0 +1,8 @@
+{C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time62/func_ex2.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time62/func_ex2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module func_ex2
+
+Top level modules:
+	func_ex2
+
+} {} {}}
