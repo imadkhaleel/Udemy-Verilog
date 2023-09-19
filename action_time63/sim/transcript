@@ -1,0 +1,91 @@
+# Compile of compare_nbit_func.v failed with 3 errors.
+# Compile of tb_compare_nbit_func.v was successful.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of compare_nbit_func.v was successful.
+# Compile of tb_compare_nbit_func.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_compare_nbit_func
+# vsim -gui work.tb_compare_nbit_func 
+# Start time: 17:10:47 on Sep 18,2023
+# Loading work.tb_compare_nbit_func
+# ** Error: (vsim-3033) Instantiation of 'compare_nbit_func' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_compare_nbit_func File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time65/tb_compare_nbit_func.v Line: 12
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time65/sim/work
+# Error loading design
+# End time: 17:10:47 on Sep 18,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 6
+vsim -gui work.tb_compare_nbit_func
+# vsim -gui work.tb_compare_nbit_func 
+# Start time: 17:11:44 on Sep 18,2023
+# Loading work.tb_compare_nbit_func
+# ** Error: (vsim-3033) Instantiation of 'compare_nbit_func' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_compare_nbit_func File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time65/tb_compare_nbit_func.v Line: 12
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time65/sim/work
+# Error loading design
+# End time: 17:11:44 on Sep 18,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 1
+# Compile of compare_nbit_func.v was successful.
+# Compile of tb_compare_nbit_func.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_compare_nbit_func
+# vsim -gui work.tb_compare_nbit_func 
+# Start time: 17:13:56 on Sep 18,2023
+# Loading work.tb_compare_nbit_func
+# ** Error: (vsim-3033) Instantiation of 'compare_nbit_func' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_compare_nbit_func File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time65/tb_compare_nbit_func.v Line: 12
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time65/sim/work
+# Error loading design
+# End time: 17:13:56 on Sep 18,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+# Compile of compare_nbit_func.v was successful.
+# Compile of tb_compare_nbit_func.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_compare_nbit_func
+# vsim -gui work.tb_compare_nbit_func 
+# Start time: 17:14:17 on Sep 18,2023
+# Loading work.tb_compare_nbit_func
+# ** Error: (vsim-3033) Instantiation of 'compare_nbit_func' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /tb_compare_nbit_func File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time65/tb_compare_nbit_func.v Line: 12
+#         Searched libraries:
+#             C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time65/sim/work
+# Error loading design
+# End time: 17:14:17 on Sep 18,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
+# Compile of compare_nbit_func.v was successful.
+# Compile of tb_compare_nbit_func.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_compare_nbit_func
+# vsim -gui work.tb_compare_nbit_func 
+# Start time: 17:14:49 on Sep 18,2023
+# Loading work.tb_compare_nbit_func
+# Loading work.compare_nbit_func
+run -all
+#                    0 a =  x, b =  x, greater = x, equal = x, smaller = x
+#                    1 a =  3, b =  2, greater = 1, equal = 0, smaller = 0
+#                    2 a =  3, b =  3, greater = 0, equal = 1, smaller = 0
+#                    3 a =  9, b = 11, greater = 0, equal = 0, smaller = 1
+quit -sim
+# End time: 17:41:07 on Sep 18,2023, Elapsed time: 0:26:18
+# Errors: 0, Warnings: 2
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of task_meters_to_feet.v was successful.
+vsim -gui work.task_meters_to_feet
+# vsim -gui work.task_meters_to_feet 
+# Start time: 17:41:59 on Sep 18,2023
+# Loading work.task_meters_to_feet
+add wave -position end  sim:/task_meters_to_feet/meters
+add wave -position end  sim:/task_meters_to_feet/feet
+add wave -position end  sim:/task_meters_to_feet/clk
+run -all
+#                    1 meters = 1.0000, feet = 3.2808
+#                    3 meters = 3.0000, feet = 9.8424
+#                    5 meters = 10.0000, feet = 32.8080
+# ** Note: $stop    : C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time66/task_meters_to_feet.v(29)
+#    Time: 19 us  Iteration: 1  Instance: /task_meters_to_feet
+# Break in Module task_meters_to_feet at C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time66/task_meters_to_feet.v line 29
+# End time: 17:49:54 on Sep 18,2023, Elapsed time: 0:07:55
+# Errors: 0, Warnings: 5
