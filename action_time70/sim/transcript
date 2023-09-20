@@ -1,0 +1,41 @@
+# Compile of ram_sp_sync_read.v was successful.
+# Compile of tb_ram_sp_sync_read.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_ram_sp_sync_read
+# vsim -gui work.tb_ram_sp_sync_read 
+# Start time: 16:50:53 on Sep 20,2023
+# Loading work.tb_ram_sp_sync_read
+# Loading work.ram_sp_sync_read
+add wave -position end  sim:/tb_ram_sp_sync_read/clk
+add wave -position end  sim:/tb_ram_sp_sync_read/data_in
+add wave -position end  sim:/tb_ram_sp_sync_read/address
+add wave -position end  sim:/tb_ram_sp_sync_read/write_en
+add wave -position end  sim:/tb_ram_sp_sync_read/data_out
+add wave -position end  sim:/tb_ram_sp_sync_read/delay
+add wave -position end  sim:/tb_ram_sp_sync_read/wr_data
+add wave -position end  sim:/tb_ram_sp_sync_read/success_count
+add wave -position end  sim:/tb_ram_sp_sync_read/error_count
+add wave -position end  sim:/tb_ram_sp_sync_read/test_count
+add wave -position end  sim:/tb_ram_sp_sync_read/i
+run -all
+#                    4 SUCCESS address = 0, expected_data = 24, observed_data = 24
+#                    7 SUCCESS address = 1, expected_data = 09, observed_data = 09
+#                   12 SUCCESS address = 2, expected_data = 0d, observed_data = 0d
+#                   15 SUCCESS address = 3, expected_data = 65, observed_data = 65
+#                   19 SUCCESS address = 4, expected_data = 01, observed_data = 01
+#                   22 SUCCESS address = 5, expected_data = 76, observed_data = 76
+#                   25 SUCCESS address = 6, expected_data = ed, observed_data = ed
+#                   27 SUCCESS address = 7, expected_data = f9, observed_data = f9
+#                   31 SUCCESS address = 8, expected_data = c5, observed_data = c5
+#                   35 SUCCESS address = 9, expected_data = e5, observed_data = e5
+#                   40 SUCCESS address = 10, expected_data = 12, observed_data = 12
+#                   45 SUCCESS address = 11, expected_data = f2, observed_data = f2
+#                   49 SUCCESS address = 12, expected_data = e8, observed_data = e8
+#                   52 SUCCESS address = 13, expected_data = 5c, observed_data = 5c
+#                   55 SUCCESS address = 14, expected_data = 2d, observed_data = 2d
+#                   58 SUCCESS address = 15, expected_data = 63, observed_data = 63
+#                   62 SUCCESS address = 0, expected_data = 80, observed_data = 80
+#                   64 TEST RESULTS success_count = 17, error_count = 0, test_count = 17
+# ** Note: $stop    : C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time71/tb_ram_sp_sync_read.v(85)
+#    Time: 103500 ns  Iteration: 0  Instance: /tb_ram_sp_sync_read
+# Break in Module tb_ram_sp_sync_read at C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time71/tb_ram_sp_sync_read.v line 85

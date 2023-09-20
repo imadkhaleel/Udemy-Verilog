@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vram_sp_async_read
+Z0 !s110 1695241480
+!i10b 1
+!s100 mBoHkQ^FK4g6=GRo?PL_;3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IRzg]klPUXJ6N<9LVAMeC03
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time70/sim
+w1695241472
+8C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time70/ram_sp_async_read.v
+FC:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time70/ram_sp_async_read.v
+!i122 1
+L0 1 22
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1695241480.000000
+!s107 C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time70/ram_sp_async_read.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time70/ram_sp_async_read.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtb_ram_sp_async_read
+R0
+!i10b 1
+!s100 [b>C7kJY6LX9dAL]JQdbk0
+R1
+IhamVjc4X6=KS7PAWS_>KI0
+R2
+R3
+w1695241314
+8C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time70/tb_ram_sp_async_read.v
+FC:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time70/tb_ram_sp_async_read.v
+!i122 2
+L0 2 86
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time70/tb_ram_sp_async_read.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time70/tb_ram_sp_async_read.v|
+!i113 1
+R6
+R7
