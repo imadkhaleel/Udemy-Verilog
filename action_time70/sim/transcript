@@ -39,3 +39,5 @@ run -all
 # ** Note: $stop    : C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time71/tb_ram_sp_sync_read.v(85)
 #    Time: 103500 ns  Iteration: 0  Instance: /tb_ram_sp_sync_read
 # Break in Module tb_ram_sp_sync_read at C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time71/tb_ram_sp_sync_read.v line 85
+# End time: 17:30:30 on Sep 20,2023, Elapsed time: 0:39:37
+# Errors: 0, Warnings: 5

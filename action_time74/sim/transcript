@@ -1,0 +1,52 @@
+# Compile of semaphore_fsm.v failed with 2 errors.
+# Compile of tb_semaphore_fsm.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of semaphore_fsm.v failed with 2 errors.
+# Compile of tb_semaphore_fsm.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of semaphore_fsm.v failed with 2 errors.
+# Compile of tb_semaphore_fsm.v was successful.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of semaphore_fsm.v failed with 3 errors.
+# Compile of tb_semaphore_fsm.v was successful.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of semaphore_fsm.v was successful.
+# Compile of tb_semaphore_fsm.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_semaphore_fsm
+# vsim -gui work.tb_semaphore_fsm 
+# Start time: 17:12:33 on Sep 21,2023
+# Loading work.tb_semaphore_fsm
+# Loading work.semaphore_fsm
+add wave -position end  sim:/tb_semaphore_fsm/OFF
+add wave -position end  sim:/tb_semaphore_fsm/RED
+add wave -position end  sim:/tb_semaphore_fsm/YELLOW
+add wave -position end  sim:/tb_semaphore_fsm/GREEN
+add wave -position end  sim:/tb_semaphore_fsm/clk
+add wave -position end  sim:/tb_semaphore_fsm/rst_n
+add wave -position end  sim:/tb_semaphore_fsm/enable
+add wave -position end  sim:/tb_semaphore_fsm/red
+add wave -position end  sim:/tb_semaphore_fsm/yellow
+add wave -position end  sim:/tb_semaphore_fsm/green
+add wave -position end  sim:/tb_semaphore_fsm/state_out
+run -all
+#                    0 enable = x, red = 0, yellow = 0, green = 0
+#                    3 enable = 0, red = 0, yellow = 0, green = 0
+#                   21 enable = 1, red = 0, yellow = 0, green = 0
+#                   23 enable = 1, red = 1, yellow = 0, green = 0
+#                  125 enable = 1, red = 0, yellow = 1, green = 0
+#                  147 enable = 1, red = 0, yellow = 0, green = 1
+#                  209 enable = 1, red = 1, yellow = 0, green = 0
+#                  311 enable = 1, red = 0, yellow = 1, green = 0
+#                  333 enable = 1, red = 0, yellow = 0, green = 1
+#                  395 enable = 1, red = 1, yellow = 0, green = 0
+#                  497 enable = 1, red = 0, yellow = 1, green = 0
+#                  499 enable = 0, red = 0, yellow = 1, green = 0
+#                  501 enable = 0, red = 0, yellow = 0, green = 0
+#                  521 enable = 1, red = 0, yellow = 0, green = 0
+#                  523 enable = 1, red = 1, yellow = 0, green = 0
+# ** Note: $stop    : C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time75/tb_semaphore_fsm.v(58)
+#    Time: 561 us  Iteration: 0  Instance: /tb_semaphore_fsm
+# Break in Module tb_semaphore_fsm at C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time75/tb_semaphore_fsm.v line 58
+# End time: 17:15:50 on Sep 21,2023, Elapsed time: 0:03:17
+# Errors: 0, Warnings: 9

@@ -1,0 +1,15 @@
+C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time74/tb_fsm1.v {1 {vlog -work work -stats=none C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time74/tb_fsm1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_fsm1
+
+Top level modules:
+	tb_fsm1
+
+} {} {}} C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time74/fsm1.v {1 {vlog -work work -stats=none C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time74/fsm1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fsm1
+
+Top level modules:
+	fsm1
+
+} {} {}}
