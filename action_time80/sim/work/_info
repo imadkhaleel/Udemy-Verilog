@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time79/sim
+vprng
+Z0 !s110 1695576466
+!i10b 1
+!s100 _UEozI1ekQ:9_8Lc]d:=A2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IPV;2;39Y;UFTIB80B@moa2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/sim
+w1695575903
+8C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/prng.v
+FC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/prng.v
+!i122 0
+L0 1 25
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1695576466.000000
+!s107 C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/prng.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/prng.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vtb_encrypt
+R0
+!i10b 1
+!s100 a?<AkU0;TJUWS0oZbWHj01
+R1
+IE:4h89FHm=;3;L001dCXW0
+R2
+R3
+w1695576406
+8C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/tb_encrypt.v
+FC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/tb_encrypt.v
+!i122 1
+L0 2 137
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/tb_encrypt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/tb_encrypt.v|
+!i113 1
+R6
+R7
+vtop_encrypt
+R0
+!i10b 1
+!s100 h0Y8=D8o36[m2^f@8lz:O0
+R1
+I^dU:b6YzLgTPVk7OFIO<^0
+R2
+R3
+w1695576378
+8C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/top_encrypt.v
+FC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/top_encrypt.v
+!i122 2
+L0 2 42
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/top_encrypt.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/top_encrypt.v|
+!i113 1
+R6
+R7
+vtop_encrypt_golden
+R0
+!i10b 1
+!s100 Bk@U6:BM@=GAEkXY=kbRE0
+R1
+ICGbcJh3K9aiEBOQgO0Kl>1
+R2
+R3
+w1695576414
+8C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/top_encrypt_golden.v
+FC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/top_encrypt_golden.v
+!i122 3
+L0 2 48
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/top_encrypt_golden.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/top_encrypt_golden.v|
+!i113 1
+R6
+R7
