@@ -48,3 +48,5 @@ run -all
 # ** Note: $stop    : C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/tb_encrypt.v(88)
 #    Time: 143 us  Iteration: 0  Instance: /tb_encrypt
 # Break in Module tb_encrypt at C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/tb_encrypt.v line 88
+# End time: 13:32:35 on Sep 24,2023, Elapsed time: 0:04:41
+# Errors: 0, Warnings: 5
