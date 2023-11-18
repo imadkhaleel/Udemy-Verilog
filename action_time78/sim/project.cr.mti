@@ -1,0 +1,11 @@
+{C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time78/fsm_template.v} {0 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time78/fsm_template.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fsm_template
+** Error: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time78/fsm_template.v(6): (vlog-2730) Undefined variable: 'WIDTH'.
+** Error: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time78/fsm_template.v(6): (vlog-2730) Undefined variable: 'value_1'.
+** Error: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time78/fsm_template.v(7): (vlog-2730) Undefined variable: 'value_2'.
+** Error: (vlog-13069) C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time78/fsm_template.v(8): near ".": syntax error, unexpected '.', expecting IDENTIFIER or TYPE_IDENTIFIER or NETTYPE_IDENTIFIER.
+** Error: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time78/fsm_template.v(17): (vlog-2730) Undefined variable: 'out_signal1'.
+** Error: (vlog-13069) C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time78/fsm_template.v(20): near ".": syntax error, unexpected '.'.
+
+} {4.0 10.0} {}}

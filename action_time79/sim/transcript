@@ -1,0 +1,52 @@
+# Compile of prng.v was successful.
+# Compile of tb_encrypt.v was successful.
+# Compile of top_encrypt.v was successful.
+# Compile of top_encrypt_golden.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.tb_encrypt
+# vsim -gui work.tb_encrypt 
+# Start time: 13:27:54 on Sep 24,2023
+# Loading work.tb_encrypt
+# Loading work.top_encrypt
+# Loading work.prng
+# Loading work.top_encrypt_golden
+add wave -position end  sim:/tb_encrypt/HALF_PERIOD
+add wave -position end  sim:/tb_encrypt/clk
+add wave -position end  sim:/tb_encrypt/rst_n
+add wave -position end  sim:/tb_encrypt/load_seed
+add wave -position end  sim:/tb_encrypt/seed_in
+add wave -position end  sim:/tb_encrypt/encrypt_en
+add wave -position end  sim:/tb_encrypt/data_in
+add wave -position end  sim:/tb_encrypt/data_out
+add wave -position end  sim:/tb_encrypt/data_out_ref
+add wave -position end  sim:/tb_encrypt/i
+add wave -position end  sim:/tb_encrypt/success_count
+add wave -position end  sim:/tb_encrypt/test_count
+add wave -position end  sim:/tb_encrypt/error_count
+run -all
+#                   24 test_count=          1  PASS: data_out_ref=c8, data_out=c8
+#                   27 test_count=          2  PASS: data_out_ref=50, data_out=50
+#                   30 test_count=          3  PASS: data_out_ref=0e, data_out=0e
+#                   33 test_count=          4  PASS: data_out_ref=f4, data_out=f4
+#                   36 test_count=          5  PASS: data_out_ref=c9, data_out=c9
+#                   39 test_count=          6  PASS: data_out_ref=21, data_out=21
+#                   42 test_count=          7  PASS: data_out_ref=d3, data_out=d3
+#                   45 test_count=          8  PASS: data_out_ref=2a, data_out=2a
+#                   48 test_count=          9  PASS: data_out_ref=e9, data_out=e9
+#                   51 test_count=         10  PASS: data_out_ref=36, data_out=36
+#                   76 test_count=         11  PASS: data_out_ref=52, data_out=52
+#                   79 test_count=         12  PASS: data_out_ref=65, data_out=65
+#                   82 test_count=         13  PASS: data_out_ref=64, data_out=64
+#                   85 test_count=         14  PASS: data_out_ref=20, data_out=20
+#                   88 test_count=         15  PASS: data_out_ref=61, data_out=61
+#                   91 test_count=         16  PASS: data_out_ref=70, data_out=70
+#                   94 test_count=         17  PASS: data_out_ref=70, data_out=70
+#                   97 test_count=         18  PASS: data_out_ref=6c, data_out=6c
+#                  100 test_count=         19  PASS: data_out_ref=65, data_out=65
+#                  103 test_count=         20  PASS: data_out_ref=2e, data_out=2e
+#                  103 TEST PASS: test_count=         20, success_count=         20, error_count=          0
+# ** Note: $stop    : C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/tb_encrypt.v(88)
+#    Time: 143 us  Iteration: 0  Instance: /tb_encrypt
+# Break in Module tb_encrypt at C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/tb_encrypt.v line 88
+# End time: 13:32:35 on Sep 24,2023, Elapsed time: 0:04:41
+# Errors: 0, Warnings: 5

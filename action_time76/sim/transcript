@@ -1,0 +1,48 @@
+# Compile of seq_det_overlap.v was successful.
+# Compile of tb_seq_det_overlap.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_seq_det_overlap
+# vsim -gui work.tb_seq_det_overlap 
+# Start time: 18:21:11 on Sep 23,2023
+# Loading work.tb_seq_det_overlap
+# Loading work.seq_det_overlap
+add wave -position end  sim:/tb_seq_det_overlap/clk
+add wave -position end  sim:/tb_seq_det_overlap/rst_n
+add wave -position end  sim:/tb_seq_det_overlap/seq_in
+add wave -position end  sim:/tb_seq_det_overlap/detected
+add wave -position end  sim:/tb_seq_det_overlap/state_out
+add wave -position end  sim:/tb_seq_det_overlap/test_vect
+add wave -position end  sim:/tb_seq_det_overlap/i
+run -all
+#                    0 seq_in = x, detected = 0
+#                    5 seq_in = 0, detected = 0
+#                    9 seq_in = 1, detected = 0
+#                   13 seq_in = 0, detected = 0
+#                   19 seq_in = 1, detected = 0
+#                   21 seq_in = 0, detected = 0
+#                   23 seq_in = 1, detected = 1
+#                   25 seq_in = 0, detected = 0
+#                   27 seq_in = 1, detected = 1
+#                   29 seq_in = 0, detected = 0
+#                   31 seq_in = 1, detected = 1
+#                   33 seq_in = 0, detected = 0
+#                   35 seq_in = 1, detected = 1
+#                   37 seq_in = 1, detected = 0
+#                   47 seq_in = 0, detected = 0
+#                   49 seq_in = 1, detected = 1
+#                   51 seq_in = 1, detected = 0
+#                   53 seq_in = 0, detected = 0
+#                   55 seq_in = 1, detected = 1
+#                   57 seq_in = 1, detected = 0
+#                   59 seq_in = 0, detected = 0
+#                   61 seq_in = 1, detected = 1
+#                   63 seq_in = 1, detected = 0
+# ** Note: $stop    : C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time77/tb_seq_det_overlap.v(48)
+#    Time: 125 us  Iteration: 0  Instance: /tb_seq_det_overlap
+# Break in Module tb_seq_det_overlap at C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time77/tb_seq_det_overlap.v line 48
+quit -sim
+# End time: 18:33:24 on Sep 23,2023, Elapsed time: 0:12:13
+# Errors: 0, Warnings: 5
+# reading C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project project
+# Compile of fsm_template.v failed with 6 errors.
