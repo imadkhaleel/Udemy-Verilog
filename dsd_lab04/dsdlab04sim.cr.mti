@@ -1,0 +1,29 @@
+{C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/swordFSM.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/swordFSM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module swordFSM
+
+Top level modules:
+	swordFSM
+
+} {} {}} {C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/game.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/game.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module game
+
+Top level modules:
+	game
+
+} {} {}} {C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/roomFSM.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/roomFSM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module roomFSM
+
+Top level modules:
+	roomFSM
+
+} {} {}} {C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/dff.v} {1 {vlog -work work -stats=none {C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/dff.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dff
+
+Top level modules:
+	dff
+
+} {} {}}

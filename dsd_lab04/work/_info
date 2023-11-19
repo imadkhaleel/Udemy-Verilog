@@ -1,0 +1,105 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/action_time80/sim
+vdff
+Z0 !s110 1700358237
+!i10b 1
+!s100 CZ6Ga?TbK7CZO9RMQ?fmk2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I8Y^W;M<WZhF1lX]a:@8bZ3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04
+w1700351247
+8C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/dff.v
+FC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/dff.v
+!i122 16
+L0 1 9
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1700358237.000000
+!s107 C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/dff.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vgame
+R0
+!i10b 1
+!s100 Ul>:11nNIh9l4FbQN=be21
+R1
+I]<>2nFDWaMHOE=ieiCkX52
+R2
+R3
+w1700358213
+8C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/game.v
+FC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/game.v
+!i122 19
+L0 1 49
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/game.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/game.v|
+!i113 1
+R6
+R7
+vroomFSM
+R0
+!i10b 1
+!s100 <f3d1g1XFbABjQ4@Jl2hL3
+R1
+IJGTh;dh5UEZVelA>lEmQR0
+R2
+R3
+w1700356264
+8C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/roomFSM.v
+FC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/roomFSM.v
+!i122 17
+L0 1 45
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/roomFSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/roomFSM.v|
+!i113 1
+R6
+R7
+nroom@f@s@m
+vswordFSM
+R0
+!i10b 1
+!s100 BlKfB]Ibhbjaf83fGaD_g0
+R1
+IUAo6[WY8R0XG^OgHh^DCX3
+R2
+R3
+w1700357828
+8C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/swordFSM.v
+FC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/swordFSM.v
+!i122 18
+L0 1 19
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/swordFSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04/prela/swordFSM.v|
+!i113 1
+R6
+R7
+nsword@f@s@m

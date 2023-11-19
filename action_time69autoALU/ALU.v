@@ -44,5 +44,5 @@ module ALU
 
     assign parity = ^y;
     assign zero = (y == 0);
-
+    
 endmodule
