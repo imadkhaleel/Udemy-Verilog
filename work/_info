@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/dsd_lab04
+vFSM
+Z0 !s110 1701205824
+!i10b 1
+!s100 jP8jlh=m_fdl]kW1FQB1<1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I@18A0<GOX2F0i:CiNUYF63
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog
+w1701205508
+8C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/FSM.v
+FC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/FSM.v
+!i122 47
+L0 1 50
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1701205824.000000
+!s107 C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/FSM.v|
+!s90 -reportprogress|300|-work|work|-vlog95compat|-stats=none|C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/FSM.v|
+!i113 1
+o-work work -vlog95compat
+Z6 tCvgOpt 0
+n@f@s@m
+vTestbench_FSM
+R0
+!i10b 1
+!s100 Y^6NWXJ?hCV[Y<ZLVzC`O0
+R1
+IN;2=eae31?=MX9o>`V4DW0
+R2
+R3
+w1701205803
+8C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v
+FC:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v
+!i122 48
+L0 1 47
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v|
+!i113 1
+o-work work
+R6
+n@testbench_@f@s@m

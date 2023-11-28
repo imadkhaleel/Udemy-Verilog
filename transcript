@@ -1,0 +1,363 @@
+vsim -gui work.Testbench_FSM
+# vsim -gui work.Testbench_FSM 
+# Start time: 12:56:09 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+add wave -position insertpoint sim:/Testbench_FSM/*
+run
+# ** Note: $finish    : C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v(23)
+#    Time: 68 ps  Iteration: 0  Instance: /Testbench_FSM
+# 1
+# Break in Module Testbench_FSM at C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v line 23
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# End time: 14:14:29 on Nov 28,2023, Elapsed time: 1:18:20
+# Errors: 0, Warnings: 2
+# vsim -gui work.Testbench_FSM 
+# Start time: 14:14:29 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+add wave -position end  sim:/Testbench_FSM/clk
+add wave -position end  sim:/Testbench_FSM/reset
+add wave -position end  sim:/Testbench_FSM/x
+add wave -position end  sim:/Testbench_FSM/z
+run
+vsim -gui work.Testbench_FSM
+# End time: 14:19:10 on Nov 28,2023, Elapsed time: 0:04:41
+# Errors: 0, Warnings: 1
+# vsim -gui work.Testbench_FSM 
+# Start time: 14:19:10 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+add wave -position end  sim:/Testbench_FSM/clk
+add wave -position end  sim:/Testbench_FSM/reset
+add wave -position end  sim:/Testbench_FSM/x
+add wave -position end  sim:/Testbench_FSM/z
+run
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# End time: 14:23:23 on Nov 28,2023, Elapsed time: 0:04:13
+# Errors: 0, Warnings: 2
+# vsim -gui work.Testbench_FSM 
+# Start time: 14:23:23 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+add wave -position end  sim:/Testbench_FSM/clk
+add wave -position end  sim:/Testbench_FSM/reset
+add wave -position end  sim:/Testbench_FSM/x
+add wave -position end  sim:/Testbench_FSM/z
+run
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+run
+# ** Note: $finish    : C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v(39)
+#    Time: 124 ps  Iteration: 0  Instance: /Testbench_FSM
+# 1
+# Break in Module Testbench_FSM at C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v line 39
+vsim -gui work.Testbench_FSM
+# End time: 14:30:28 on Nov 28,2023, Elapsed time: 0:07:05
+# Errors: 0, Warnings: 3
+# vsim -gui work.Testbench_FSM 
+# Start time: 14:30:28 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+add wave -position end  sim:/Testbench_FSM/clk
+add wave -position end  sim:/Testbench_FSM/reset
+add wave -position end  sim:/Testbench_FSM/x
+add wave -position end  sim:/Testbench_FSM/z
+run
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# End time: 14:42:30 on Nov 28,2023, Elapsed time: 0:12:02
+# Errors: 0, Warnings: 2
+# vsim -gui work.Testbench_FSM 
+# Start time: 14:42:30 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+add wave -position end  sim:/Testbench_FSM/clk
+add wave -position end  sim:/Testbench_FSM/reset
+add wave -position end  sim:/Testbench_FSM/x
+add wave -position end  sim:/Testbench_FSM/z
+run
+# ** Note: $finish    : C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v(24)
+#    Time: 68 ps  Iteration: 0  Instance: /Testbench_FSM
+# 1
+# Break in Module Testbench_FSM at C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v line 24
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# End time: 14:44:41 on Nov 28,2023, Elapsed time: 0:02:11
+# Errors: 0, Warnings: 2
+# vsim -gui work.Testbench_FSM 
+# Start time: 14:44:41 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+add wave -position end  sim:/Testbench_FSM/clk
+add wave -position end  sim:/Testbench_FSM/reset
+add wave -position end  sim:/Testbench_FSM/x
+add wave -position end  sim:/Testbench_FSM/z
+run
+# ** Note: $finish    : C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v(32)
+#    Time: 100 ps  Iteration: 0  Instance: /Testbench_FSM
+# 1
+# Break in Module Testbench_FSM at C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v line 32
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# End time: 15:37:24 on Nov 28,2023, Elapsed time: 0:52:43
+# Errors: 0, Warnings: 4
+# vsim -gui work.Testbench_FSM 
+# Start time: 15:37:24 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+add wave -position end  sim:/Testbench_FSM/clk
+add wave -position end  sim:/Testbench_FSM/reset
+add wave -position end  sim:/Testbench_FSM/x
+add wave -position end  sim:/Testbench_FSM/z
+run
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# End time: 15:52:56 on Nov 28,2023, Elapsed time: 0:15:32
+# Errors: 0, Warnings: 7
+# vsim -gui work.Testbench_FSM 
+# Start time: 15:52:56 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+add wave -position end  sim:/Testbench_FSM/clk
+add wave -position end  sim:/Testbench_FSM/reset
+add wave -position end  sim:/Testbench_FSM/x
+add wave -position end  sim:/Testbench_FSM/z
+run
+# Time = 0, x = 0, z = x
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# End time: 15:56:29 on Nov 28,2023, Elapsed time: 0:03:33
+# Errors: 0, Warnings: 4
+# vsim -gui work.Testbench_FSM 
+# Start time: 15:56:29 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+add wave -position end  sim:/Testbench_FSM/clk
+add wave -position end  sim:/Testbench_FSM/reset
+add wave -position end  sim:/Testbench_FSM/x
+add wave -position end  sim:/Testbench_FSM/z
+run
+# Time = 0, x = 0, z = x
+# Time = 0, x = 0, z = x
+# Time = 0, x = 0, z = x
+# Time = 0, x = 0, z = x
+# Time = 0, x = 0, z = x
+# Time = 0, x = 0, z = x
+# Time = 0, x = 0, z = x
+# Time = 0, x = 0, z = x
+# Time = 0, x = 0, z = x
+# Time = 0, x = 0, z = x
+# Time = 0, x = 0, z = x
+# Time = 0, x = 0, z = x
+# Time = 0, x = 0, z = x
+# Time = 0, x = 0, z = x
+# Time = 0, x = 0, z = x
+# Time = 0, x = 0, z = x
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# End time: 16:01:35 on Nov 28,2023, Elapsed time: 0:05:06
+# Errors: 0, Warnings: 6
+# vsim -gui work.Testbench_FSM 
+# Start time: 16:01:35 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+# ** Error: (vsim-8220) This or another usage of 'f1.clk' inconsistent with 'net' object.
+#    Time: 0 ps  Iteration: 0  Instance: /Testbench_FSM File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v Line: 59
+# ** Error: (vsim-8220) This or another usage of 'f1.reset' inconsistent with 'net' object.
+#    Time: 0 ps  Iteration: 0  Instance: /Testbench_FSM File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v Line: 60
+# ** Error: (vsim-8220) This or another usage of 'f1.x' inconsistent with 'net' object.
+#    Time: 0 ps  Iteration: 0  Instance: /Testbench_FSM File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v Line: 61
+# Error loading design
+# End time: 16:01:35 on Nov 28,2023, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 1
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# vsim -gui work.Testbench_FSM 
+# Start time: 16:04:21 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+# ** Error: (vsim-8220) This or another usage of 'f1.clk' inconsistent with 'net' object.
+#    Time: 0 ps  Iteration: 0  Instance: /Testbench_FSM File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v Line: 59
+# ** Error: (vsim-8220) This or another usage of 'f1.reset' inconsistent with 'net' object.
+#    Time: 0 ps  Iteration: 0  Instance: /Testbench_FSM File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v Line: 60
+# ** Error: (vsim-8220) This or another usage of 'f1.x' inconsistent with 'net' object.
+#    Time: 0 ps  Iteration: 0  Instance: /Testbench_FSM File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v Line: 61
+# Error loading design
+# End time: 16:04:21 on Nov 28,2023, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 3
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# vsim -gui work.Testbench_FSM 
+# Start time: 16:04:53 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+# ** Error: (vsim-8220) This or another usage of 'f1.clk' inconsistent with 'net' object.
+#    Time: 0 ps  Iteration: 0  Instance: /Testbench_FSM File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v Line: 62
+# ** Error: (vsim-8220) This or another usage of 'f1.reset' inconsistent with 'net' object.
+#    Time: 0 ps  Iteration: 0  Instance: /Testbench_FSM File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v Line: 63
+# ** Error: (vsim-8220) This or another usage of 'f1.x' inconsistent with 'net' object.
+#    Time: 0 ps  Iteration: 0  Instance: /Testbench_FSM File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v Line: 64
+# Error loading design
+# End time: 16:04:53 on Nov 28,2023, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 2
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# vsim -gui work.Testbench_FSM 
+# Start time: 16:05:59 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+# ** Error: (vsim-8220) This or another usage of 'f1.clk' inconsistent with 'net' object.
+#    Time: 0 ps  Iteration: 0  Instance: /Testbench_FSM File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v Line: 62
+# ** Error: (vsim-8220) This or another usage of 'f1.reset' inconsistent with 'net' object.
+#    Time: 0 ps  Iteration: 0  Instance: /Testbench_FSM File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v Line: 63
+# ** Error: (vsim-8220) This or another usage of 'f1.x' inconsistent with 'net' object.
+#    Time: 0 ps  Iteration: 0  Instance: /Testbench_FSM File: C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v Line: 64
+# Error loading design
+# End time: 16:05:59 on Nov 28,2023, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 2
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# vsim -gui work.Testbench_FSM 
+# Start time: 16:06:13 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+add wave -position end  sim:/Testbench_FSM/clk
+add wave -position end  sim:/Testbench_FSM/reset
+add wave -position end  sim:/Testbench_FSM/x
+add wave -position end  sim:/Testbench_FSM/z
+run
+# Time = 0, x = 0, z = x
+# Time = 2, x = 0, z = 1
+# Time = 4, x = 0, z = 1
+# Time = 12, x = 0, z = 1
+# Time = 14, x = 1, z = 1
+# Time = 18, x = 0, z = 0
+# Time = 24, x = 0, z = 0
+# Time = 26, x = 1, z = 0
+# Time = 34, x = 1, z = 1
+# Time = 38, x = 0, z = 0
+# Time = 40, x = 0, z = 0
+# Time = 42, x = 1, z = 0
+# Time = 50, x = 0, z = 1
+# Time = 58, x = 1, z = 1
+# Time = 60, x = 1, z = 1
+# Time = 62, x = 0, z = 0
+# Time = 66, x = 1, z = 0
+# Time = 70, x = 0, z = 0
+# Time = 78, x = 1, z = 0
+# Time = 82, x = 0, z = 1
+# Time = 84, x = 0, z = 1
+# Time = 86, x = 1, z = 1
+# Time = 90, x = 0, z = 0
+# Time = 94, x = 1, z = 0
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# End time: 16:10:43 on Nov 28,2023, Elapsed time: 0:04:30
+# Errors: 0, Warnings: 3
+# vsim -gui work.Testbench_FSM 
+# Start time: 16:10:43 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+add wave -position end  sim:/Testbench_FSM/clk
+add wave -position end  sim:/Testbench_FSM/reset
+add wave -position end  sim:/Testbench_FSM/x
+add wave -position end  sim:/Testbench_FSM/z
+run
+# Time = 0, x = 0, z = x
+# Time = 2, x = 0, z = 1
+# Time = 4, x = 0, z = 1
+# Time = 12, x = 0, z = 1
+# Time = 14, x = 1, z = 1
+# Time = 18, x = 0, z = 0
+# Time = 22, x = 1, z = 0
+# Time = 24, x = 1, z = 0
+# Time = 30, x = 1, z = 1
+# Time = 34, x = 0, z = 0
+# Time = 38, x = 1, z = 0
+# Time = 40, x = 1, z = 0
+# Time = 46, x = 1, z = 1
+# Time = 50, x = 0, z = 0
+# Time = 54, x = 1, z = 0
+# Time = 60, x = 1, z = 0
+# Time = 62, x = 1, z = 1
+# Time = 64, x = 0, z = 1
+# ** Note: $finish    : C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v(25)
+#    Time: 68 ps  Iteration: 0  Instance: /Testbench_FSM
+# 1
+# Break in Module Testbench_FSM at C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v line 25
