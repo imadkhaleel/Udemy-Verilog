@@ -361,3 +361,5 @@ run
 #    Time: 68 ps  Iteration: 0  Instance: /Testbench_FSM
 # 1
 # Break in Module Testbench_FSM at C:/Users/imadk/Documents/Rutgers/Rutgers NB/Udemy Verilog HDL/Udemy-Verilog/Testbench_FSM.v line 25
+# End time: 16:14:06 on Nov 28,2023, Elapsed time: 0:03:23
+# Errors: 0, Warnings: 1
