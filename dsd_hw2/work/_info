@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time75/sim
+vFSM
+Z0 !s110 1701220522
+!i10b 1
+!s100 cPlI;@lcIN`@cJ^kbf1n33
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IM3[3S@YM7R1@kTYj2g2di3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/imadk/OneDrive/Documents/Udemy-Verilog/dsd_hw2
+w1701219607
+8C:\Users\imadk\OneDrive\Documents\Udemy-Verilog\FSM.v
+FC:\Users\imadk\OneDrive\Documents\Udemy-Verilog\FSM.v
+!i122 10
+L0 1 53
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1701220522.000000
+!s107 C:\Users\imadk\OneDrive\Documents\Udemy-Verilog\FSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\imadk\OneDrive\Documents\Udemy-Verilog\FSM.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@f@s@m
+vTestbench_FSM
+R0
+!i10b 1
+!s100 V=0E[m2W57DQSJE:n9n952
+R1
+ID=Y;@>LnJT`^cXQ8OeUBk0
+R2
+R3
+w1701220514
+8C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/Testbench_FSM.v
+FC:/Users/imadk/OneDrive/Documents/Udemy-Verilog/Testbench_FSM.v
+!i122 11
+L0 1 47
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/Testbench_FSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/Testbench_FSM.v|
+!i113 1
+R6
+R7
+n@testbench_@f@s@m

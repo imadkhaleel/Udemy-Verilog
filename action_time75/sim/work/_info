@@ -10,7 +10,7 @@ z2
 cModel Technology
 dC:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time74/sim
 vsemaphore_fsm
-Z0 !s110 1695330745
+Z0 !s110 1701216220
 !i10b 1
 !s100 ciE8TB>_<;HgLkc=G:eLD2
 Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
@@ -20,18 +20,18 @@ Z3 dC:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time75/sim
 w1695330732
 8C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time75/semaphore_fsm.v
 FC:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time75/semaphore_fsm.v
-!i122 4
+!i122 6
 L0 94 91
 Z4 OV;L;2020.1;71
 r1
 !s85 0
 31
-Z5 !s108 1695330745.000000
+!s108 1701216219.000000
 !s107 C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time75/semaphore_fsm.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time75/semaphore_fsm.v|
 !i113 1
-Z6 o-work work
-Z7 tCvgOpt 0
+Z5 o-work work
+Z6 tCvgOpt 0
 vtb_semaphore_fsm
 R0
 !i10b 1
@@ -43,15 +43,15 @@ R3
 w1695330482
 8C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time75/tb_semaphore_fsm.v
 FC:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time75/tb_semaphore_fsm.v
-!i122 5
+!i122 7
 L0 2 60
 R4
 r1
 !s85 0
 31
-R5
+!s108 1701216220.000000
 !s107 C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time75/tb_semaphore_fsm.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/action_time75/tb_semaphore_fsm.v|
 !i113 1
+R5
 R6
-R7

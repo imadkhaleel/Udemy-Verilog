@@ -1,0 +1,105 @@
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# vsim -gui work.Testbench_FSM 
+# Start time: 19:12:01 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+add wave -position end  sim:/Testbench_FSM/clk
+add wave -position end  sim:/Testbench_FSM/reset
+add wave -position end  sim:/Testbench_FSM/x
+add wave -position end  sim:/Testbench_FSM/z
+run
+# Time = 0, x = 0, z = x
+# Time = 2, x = 0, z = 1
+# Time = 4, x = 0, z = 1
+# Time = 12, x = 0, z = 1
+# Time = 14, x = 1, z = 1
+# Time = 18, x = 0, z = 0
+# Time = 22, x = 1, z = 0
+# Time = 24, x = 1, z = 0
+# Time = 30, x = 1, z = 1
+# Time = 34, x = 0, z = 0
+# Time = 38, x = 1, z = 0
+# Time = 40, x = 1, z = 0
+# Time = 46, x = 1, z = 1
+# Time = 50, x = 0, z = 0
+# Time = 54, x = 1, z = 0
+# Time = 60, x = 1, z = 0
+# Time = 62, x = 1, z = 1
+# Time = 64, x = 0, z = 1
+# ** Note: $finish    : C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/Testbench_FSM.v(25)
+#    Time: 68 ps  Iteration: 0  Instance: /Testbench_FSM
+# 1
+# Break in Module Testbench_FSM at C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/Testbench_FSM.v line 25
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of FSM.v failed with 1 errors.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 1 failed with 1 error.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# End time: 20:13:18 on Nov 28,2023, Elapsed time: 1:01:17
+# Errors: 0, Warnings: 10
+# vsim -gui work.Testbench_FSM 
+# Start time: 20:13:18 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+# ** Error: (vsim-3694) The implicit port connection (.*) did not find a matching port, net, variable or interface instance in Testbench_FSM for port 'ins'.
+#    Time: 0 ps  Iteration: 0  Instance: /Testbench_FSM/f1 File: C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/FSM.v
+# ** Error: (vsim-3694) The implicit port connection (.*) did not find a matching port, net, variable or interface instance in Testbench_FSM for port 'outs'.
+#    Time: 0 ps  Iteration: 0  Instance: /Testbench_FSM/f1 File: C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/FSM.v
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'f1'.  Expected 4, found 2.
+#    Time: 0 ps  Iteration: 0  Instance: /Testbench_FSM/f1 File: C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/Testbench_FSM.v Line: 7
+# ** Warning: (vsim-3722) C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/Testbench_FSM.v(7): [TFMPC] - Missing connection for port 'ins'.
+# ** Warning: (vsim-3722) C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/Testbench_FSM.v(7): [TFMPC] - Missing connection for port 'outs'.
+# Error loading design
+# End time: 20:13:19 on Nov 28,2023, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 4
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of FSM.v was successful.
+# Compile of Testbench_FSM.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.Testbench_FSM
+# vsim -gui work.Testbench_FSM 
+# Start time: 20:15:29 on Nov 28,2023
+# Loading work.Testbench_FSM
+# Loading work.FSM
+add wave -position end  sim:/Testbench_FSM/clk
+add wave -position end  sim:/Testbench_FSM/reset
+add wave -position end  sim:/Testbench_FSM/ins
+add wave -position end  sim:/Testbench_FSM/outs
+run -all
+# Time = 0, ins = 0, z = x
+# Time = 2, ins = 0, z = 1
+# Time = 4, ins = 0, z = 1
+# Time = 12, ins = 0, z = 1
+# Time = 14, ins = 1, z = 1
+# Time = 18, ins = 0, z = 0
+# Time = 22, ins = 1, z = 0
+# Time = 24, ins = 1, z = 0
+# Time = 30, ins = 1, z = 1
+# Time = 34, ins = 0, z = 0
+# Time = 38, ins = 1, z = 0
+# Time = 40, ins = 1, z = 0
+# Time = 46, ins = 1, z = 1
+# Time = 50, ins = 0, z = 0
+# Time = 54, ins = 1, z = 0
+# Time = 60, ins = 1, z = 0
+# Time = 62, ins = 1, z = 1
+# Time = 64, ins = 0, z = 1
+# ** Note: $finish    : C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/Testbench_FSM.v(25)
+#    Time: 68 ps  Iteration: 0  Instance: /Testbench_FSM
+# 1
+# Break in Module Testbench_FSM at C:/Users/imadk/OneDrive/Documents/Udemy-Verilog/Testbench_FSM.v line 25
+# End time: 21:19:20 on Nov 28,2023, Elapsed time: 1:03:51
+# Errors: 0, Warnings: 3

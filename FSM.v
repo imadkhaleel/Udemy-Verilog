@@ -1,49 +1,52 @@
-module FSM(input clk, input reset, input x, output reg z);
+module FSM(input clk, input reset, input ins, output reg outs);
 
-	reg [1:0] state, nextstate;
-	parameter S0=0, S1=1 , S2=2 , S3=3;
+	reg [1:0] currState, nextState;
+	parameter S0=0;
+	parameter S1=1;
+	parameter S2=2; 
+	parameter S3=3;
 
-	always @(posedge clk or posedge reset) // always block to update state
+	always @(posedge clk or posedge reset)
 		if (reset)
-			state <= S0;
+			currState <= S0;
 		else
-			state <= nextstate;
-	always @(state) // always block to compute output
+			currState <= nextState;
+	always @(currState) 
 		begin
-			case(state)
-			S0: z <= 1;// for 0 at start 
-			S1: z <= 0;
-			S2: z<=0;
-			S3: z<=1;// when the sequence reaches number of 1 divisible by 3
+			case(currState)
+			S0: outs <= 1;
+			S1: outs <= 0;
+			S2: outs <= 0;
+			S3: outs <= 1;
 			endcase
 		end
-	always @(state or x) // always block to compute nextstate
+	always @(currState or ins)
 		begin
-		nextstate <= S0;
-			case(state)
+		nextState <= S0;
+			case(currState)
 			S0: begin
-				if(!x)
-					nextstate<=S0;
+				if(!ins)
+					nextState<=S0;
 				else
-					nextstate<=S1;
+					nextState<=S1;
 				end
 			S1: begin
-				if(!x)
-					nextstate <= S1;
+				if(!ins)
+					nextState <= S1;
 				else
-					nextstate<=S2;
+					nextState<=S2;
 				end
 			S2:begin
-				if(!x)
-					nextstate<=S2;
+				if(!ins)
+					nextState<=S2;
 				else
-					nextstate<=S3;
+					nextState<=S3;
 				end
 			S3: begin
-				if(!x)
-					nextstate<=S3;
+				if(!ins)
+					nextState<=S3;
 				else
-					nextstate<=S1;
+					nextState<=S1;
 				end
 			endcase
 		end
